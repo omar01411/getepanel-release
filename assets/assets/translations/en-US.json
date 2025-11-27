@@ -200,5 +200,9 @@
   "last-maint-by": "Last Maintained By",
   "last-maint-date": "Last Maintained Date",
   "sales": "Sales",
-  "user-deleted": "User deleted successfully"
+  "user-deleted": "User deleted successfully",
+  "packings": "Packings",
+  "packing": "Packing",
+  "packing-description": "Packing Description",
+  "packing-deleted": "Packing deleted successfully"
 }

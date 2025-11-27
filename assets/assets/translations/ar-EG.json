@@ -200,5 +200,9 @@
   "last-maint-by": "آخر صيانة بواسطة",
   "last-maint-date": "تاريخ آخر صيانة",
   "sales": "المبيعات",
-  "user-deleted": "تم حذف المستخدم بنجاح"
+  "user-deleted": "تم حذف المستخدم بنجاح",
+  "packings": "التعبئة",
+  "packing": "عبوة",
+  "packing-description": "وصف التعبئة",
+  "packing-deleted": "تم حذف العبوة بنجاح"
 }
