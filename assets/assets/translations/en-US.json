@@ -204,5 +204,20 @@
   "packings": "Packings",
   "packing": "Packing",
   "packing-description": "Packing Description",
-  "packing-deleted": "Packing deleted successfully"
+  "packing-deleted": "Packing deleted successfully",
+  "items": "Items",
+  "item": "Item",
+  "item-id": "Item ID",
+  "item-code": "Item Code",
+  "item-description": "Item Description",
+  "packing-type": "Packing Type",
+  "selling-um": "Selling UM",
+  "conversion": "Conversion",
+  "gross-weight": "Gross Weight",
+  "item-category-1": "Item Category 1",
+  "item-category-2": "Item Category 2",
+  "base": "Base",
+  "color": "Color",
+  "rgb": "RGB",
+  "item-deleted": "Item deleted successfully"
 }

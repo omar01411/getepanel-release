@@ -204,5 +204,21 @@
   "packings": "التعبئة",
   "packing": "عبوة",
   "packing-description": "وصف التعبئة",
-  "packing-deleted": "تم حذف العبوة بنجاح"
+  "packing-deleted": "تم حذف العبوة بنجاح",
+  "items": "الأصناف",
+  "item": "صنف",
+  "item-id": "رقم الصنف",
+  "item-code": "كود الصنف",
+  "item-description": "وصف الصنف",
+  "packing-type": "نوع التعبئة",
+  "selling-um": "وحدة البيع",
+  "conversion": "التحويل",
+  "gross-weight": "الوزن الإجمالي",
+  "item-category-1": "فئة الصنف 1",
+  "item-category-2": "فئة الصنف 2",
+  "base": "القاعدة",
+  "color": "اللون",
+  "rgb": "RGB",
+  "item-deleted": "تم حذف الصنف بنجاح",
+  "user-already-exists": "المستخدم موجود بالفعل"
 }
