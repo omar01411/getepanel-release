@@ -266,5 +266,13 @@
   "file-already-exists": "File already exists",
   "item-types": "Item Types",
   "item-type": "Item Type",
-  "item-type-description": "Item Type Description"
+  "item-type-description": "Item Type Description",
+  "echo-customers": "Echo Customers",
+  "echo-customer-type": "Echo Customer Type",
+  "sales-id": "Sales ID",
+  "erp-customer-no": "ERP Customer No",
+  "echo-users": "Echo Users",
+  "dealer-customer-id": "Dealer Customer ID",
+  "customer-id": "Customer ID",
+  "column1": "Dealer Name"
 }

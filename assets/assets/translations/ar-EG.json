@@ -267,5 +267,13 @@
   "file-already-exists": "الملف موجود بالفعل",
   "item-types": "أنواع الأصناف",
   "item-type": "نوع الصنف",
-  "item-type-description": "وصف نوع الصنف"
+  "item-type-description": "وصف نوع الصنف",
+  "echo-customers": "عملاء إيكو",
+  "echo-customer-type": "نوع عميل إيكو",
+  "sales-id": "رقم المبيعات",
+  "erp-customer-no": "رقم العميل في ERP",
+  "echo-users": "مستخدمو إيكو",
+  "dealer-customer-id": "رقم عميل الموزع",
+  "customer-id": "رقم العميل",
+  "column1": "اسم الموزع"
 }
