@@ -121035,7 +121035,7 @@ return s===$?this.e=A.b([],t.d):s},
 au(){this.Sy()
 this.aJ()},
 Sy(){var s=null,r="Name",q="GovernorateID",p=t.Iy,o=t.N,n=t.z
-return this.e=A.b([A.b1("id",s,s,s,s,!1,"CustomerID",s,s,!1,!1,s,!1,B.z,B.N,80),A.b1("customer-type",A.b([A.ej("Type",200,r,0)],p),A.b([new A.bh("1","Dealer",A.W(["Name","Dealer"],o,n)),new A.bh("2","SubDealer",A.W(["Name","SubDealer"],o,n))],t.kh),new A.b_F(this),s,!1,"EchoCustomerType",s,s,!1,!0,1,!0,B.z,B.b2,120),A.b1("erp-customer",A.b([A.ej("No",100,"CustomerNo",0),A.ej(r,250,"CustomerExtraName",0)],p),s,s,s,!1,"ERPCustomerNo",s,s,!1,!0,1,!0,B.z,B.b2,200),A.b1("customer-name",s,s,s,s,!1,"CustomerName",s,s,!0,!1,2,!1,B.z,B.N,200),A.b1("mobile",s,s,s,s,!1,"MobileNo",s,s,!0,!1,3,!0,B.z,B.N,150),A.b1("contact-name",s,s,s,s,!1,"ContactPerson",s,s,!0,!1,3,!0,B.z,B.N,150),A.b1("sales-person",A.b([A.ej("ID",100,"SalesID",0),A.ej(r,200,"SalesName",0)],p),s,s,s,!1,"SalesID",s,s,!0,!1,4,!0,B.z,B.b2,150),A.b1("governorate",A.b([A.ej("ID",100,q,0),A.ej(r,200,"GovernorateNameEn",0)],p),s,s,s,!1,q,s,s,!0,!1,5,!0,B.z,B.b2,150),A.b1("city",A.b([A.ej("ID",100,"CityID",0),A.ej(r,200,"CityNameEn",0)],p),s,s,s,!1,"CityID",s,s,!0,!1,5,!0,B.z,B.b2,120),A.b1("address",s,s,s,s,!1,"Address",3,3,!0,!1,6,!0,B.z,B.N,300),A.b1("dealer-customer",s,s,s,s,!1,"DealerCustomerID",s,s,!1,!1,s,!1,B.z,B.N,150),A.b1("is-dealer",s,s,s,s,!1,"IsDealer",s,s,!1,!1,s,!1,B.z,B.N,0),A.b1("created-by",s,s,s,s,!1,"CreatedBy",s,s,!1,!1,s,!1,B.z,B.N,150),A.b1("created-date",s,s,s,s,!1,"CreatedDate",s,s,!1,!1,s,!1,B.z,B.d4,200)],t.d)},
+return this.e=A.b([A.b1("id",s,s,s,s,!1,"CustomerID",s,s,!1,!1,s,!1,B.z,B.N,80),A.b1("customer-type",A.b([A.ej("Type",200,r,0)],p),A.b([new A.bh("1","Dealer",A.W(["Name","Dealer"],o,n)),new A.bh("2","SubDealer",A.W(["Name","SubDealer"],o,n))],t.kh),new A.b_F(this),s,!1,"EchoCustomerType",s,s,!1,!0,1,!0,B.z,B.b2,120),A.b1("erp-customer",A.b([A.ej("No",100,"CustomerNo",0),A.ej(r,450,"CustomerExtraName",0)],p),s,s,s,!1,"ERPCustomerNo",s,s,!1,!0,1,!0,B.z,B.b2,200),A.b1("customer-name",s,s,s,s,!1,"CustomerName",s,s,!0,!1,2,!1,B.z,B.N,200),A.b1("mobile",s,s,s,s,!1,"MobileNo",s,s,!0,!1,3,!0,B.z,B.N,150),A.b1("contact-name",s,s,s,s,!1,"ContactPerson",s,s,!0,!1,3,!0,B.z,B.N,150),A.b1("sales-person",A.b([A.ej("ID",100,"SalesID",0),A.ej(r,400,"SalesName",0)],p),s,s,s,!1,"SalesID",s,s,!0,!1,4,!0,B.z,B.b2,150),A.b1("governorate",A.b([A.ej("ID",100,q,0),A.ej(r,300,"GovernorateNameEn",0)],p),s,s,s,!1,q,s,s,!0,!1,5,!0,B.z,B.b2,150),A.b1("city",A.b([A.ej("ID",100,"CityID",0),A.ej(r,300,"CityNameEn",0)],p),s,s,s,!1,"CityID",s,s,!0,!1,5,!0,B.z,B.b2,120),A.b1("address",s,s,s,s,!1,"Address",3,3,!0,!1,6,!0,B.z,B.N,300),A.b1("dealer-customer",s,s,s,s,!1,"DealerCustomerID",s,s,!1,!1,s,!1,B.z,B.N,150),A.b1("is-dealer",s,s,s,s,!1,"IsDealer",s,s,!1,!1,s,!1,B.z,B.N,0),A.b1("created-by",s,s,s,s,!1,"CreatedBy",s,s,!1,!1,s,!1,B.z,B.N,150),A.b1("created-date",s,s,s,s,!1,"CreatedDate",s,s,!1,!1,s,!1,B.z,B.d4,200)],t.d)},
 a8Y(a){var s,r,q,p,o,n,m,l,k,j,i,h=this,g=null,f="DealerCustomerID",e="dealer-customer",d=a==="2"
 for(s=["CustomerName","MobileNo","ContactPerson","SalesID","GovernorateID","CityID","Address"],r=t.d,q=!d,p=0;p<7;++p){o=s[p]
 n=h.e
@@ -121048,7 +121048,7 @@ j=k!==-1?k:h.gbB(0).length
 if(d){s=J.iw(h.gud().Q,new A.b_J())
 r=s.$ti.i("cG<1,bh>")
 i=A.Y(new A.cG(s,new A.b_K(),r),r.i("w.E"))
-B.b.eV(h.gbB(0),j,A.b1(e,A.b([A.ej("ID",100,"CustomerID",0),A.ej("Name",200,"CustomerName",0)],t.Iy),i,g,g,!1,f,g,g,!1,!0,7,!0,B.z,B.b2,150))}else B.b.eV(h.gbB(0),j,A.b1(e,g,g,g,g,!1,f,g,g,!1,!1,g,!1,B.z,B.N,150))},
+B.b.eV(h.gbB(0),j,A.b1(e,A.b([A.ej("ID",100,"CustomerID",0),A.ej("Name",400,"CustomerName",0)],t.Iy),i,g,g,!1,f,g,g,!1,!0,7,!0,B.z,B.b2,150))}else B.b.eV(h.gbB(0),j,A.b1(e,g,g,g,g,!1,f,g,g,!1,!1,g,!1,B.z,B.N,150))},
 qv(a){return this.aG8(a)},
 aG7(){return this.qv(null)},
 aG8(a){var s=0,r=A.p(t.H),q=this,p,o,n,m,l,k,j,i
@@ -121247,7 +121247,7 @@ return A.o($async$$0,r)},
 $S:27}
 A.b_Q.prototype={
 $1(a){var s=this.b,r=A.aK("echo-customer")
-return A.ix(null,A.k8(700,B.ax,!0,s.gbB(0),new A.b_N(s),new A.b_O(this.a,s),r,750),B.I,B.I,null,B.I)},
+return A.ix(null,A.k8(900,B.ax,!0,s.gbB(0),new A.b_N(s),new A.b_O(this.a,s),r,750),B.I,B.I,null,B.I)},
 $S:32}
 A.b_N.prototype={
 $0(){var s=0,r=A.p(t.H),q,p=this
@@ -121294,7 +121294,7 @@ return A.o($async$$1,r)},
 $S:69}
 A.b_P.prototype={
 $1(a){var s=this.b,r=this.c,q=A.aK("echo-customer")
-return A.ix(null,A.k8(700,r,!1,s.gbB(0),new A.b_L(s,r),new A.b_M(this.a,s,r),q,750),B.I,B.I,null,B.I)},
+return A.ix(null,A.k8(900,r,!1,s.gbB(0),new A.b_L(s,r),new A.b_M(this.a,s,r),q,750),B.I,B.I,null,B.I)},
 $S:32}
 A.b_L.prototype={
 $0(){var s=0,r=A.p(t.H),q,p=this
