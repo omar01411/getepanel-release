@@ -272,6 +272,8 @@
   "customer-items-menu": "Customer Items",
   "item-types-menu": "Item Types",
   "system-privileges": "System Privileges",
+  "system-users": "System Users",
+  "system-user": "System User",
   "screen_access": "Screen Access",
   "screens_granted": "screens granted",
   "select_user_for_screen_access": "Select a user to manage screen access",

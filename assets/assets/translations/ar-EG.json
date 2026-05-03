@@ -273,6 +273,8 @@
   "customer-items-menu": "أصناف العملاء",
   "item-types-menu": "أنواع الأصناف",
   "system-privileges": "صلاحيات النظام",
+  "system-users": "مستخدمي النظام",
+  "system-user": "مستخدم نظام",
   "screen_access": "صلاحيات الشاشات",
   "screens_granted": "شاشة ممنوحة",
   "select_user_for_screen_access": "اختر مستخدمًا لإدارة صلاحيات الشاشات",
