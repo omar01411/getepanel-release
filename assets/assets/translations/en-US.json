@@ -307,5 +307,6 @@
   "select_user_for_screen_access": "Select a user to manage screen access",
   "select_user_for_screen_access_hint": "Choose a user from the left panel to view and configure their screen access permissions",
   "search": "Search",
-  "no_results_found": "No results found"
+  "no_results_found": "No results found",
+  "order-by": "Order By"
 }

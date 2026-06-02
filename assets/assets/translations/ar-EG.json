@@ -308,5 +308,6 @@
   "select_user_for_screen_access": "اختر مستخدمًا لإدارة صلاحيات الشاشات",
   "select_user_for_screen_access_hint": "اختر مستخدمًا من القائمة اليسرى لعرض صلاحيات الشاشات وإدارتها",
   "search": "بحث",
-  "no_results_found": "لا توجد نتائج"
+  "no_results_found": "لا توجد نتائج",
+  "order-by": "ترتيب حسب"
 }
